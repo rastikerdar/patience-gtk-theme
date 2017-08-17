@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Patience
+Comment=Patience theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Patience
+MetacityTheme=Patience
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
